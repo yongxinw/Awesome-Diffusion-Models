@@ -2062,7 +2062,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.10893)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03668)] [[Github](https://github.com/YuxinWenRick/hard-prompts-made-easy)] \
 7 Feb 2023
 
-**Zero-shot Image-to-Image Translation** :heavy_check_mark: \
+**Zero-shot Image-to-Image Translation** ✔️ \
 *Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03027)] \
 6 Feb 2023
